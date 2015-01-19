@@ -1,0 +1,7 @@
+.ui-rotatable-handle {
+    height: 16px;
+    width: 16px;
+    cursor: pointer;
+    background-image: url(rotate.png);
+    position: absolute;
+}
